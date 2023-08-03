@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri C:/Users/alexa/Repos/atulloh.oddball-pcb/footprints/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name SparkFun-Boards)(type KiCad)(uri C:/Users/alexa/Repos/atulloh.oddball-pcb/footprints/SparkFun-KiCad-Libraries-master/Boards.pretty)(options "")(descr ""))
+  (lib (name TMK-keyboard_parts)(type KiCad)(uri C:/Users/alexa/Repos/atulloh.oddball-pcb/footprints/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name teensy)(type KiCad)(uri C:/Users/alexa/Repos/atulloh.oddball-pcb/lib/teensy)(options "")(descr ""))
+  (lib (name oddball)(type KiCad)(uri ${KIPRJMOD}/oddball.pretty)(options "")(descr ""))
+)
