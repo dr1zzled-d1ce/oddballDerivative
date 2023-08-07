@@ -1,4 +1,4 @@
-21758996085456558
+22276467995703879
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+Battery
+BatteryClip_Keystone_54_D16-19mm
+Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
+battery clip 18650 18350 17350 CR123A 2/3A
+0
+3
+1
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -236,6 +243,13 @@ BatteryHolder_MPD_BH-18650-PC2
 18650 Battery Holder
 0
 2
+2
+Battery
+BatteryHolder_Multicomp_BC-2001_1x2032
+CR2032 retainer clip, SMT ( http://www.farnell.com/datasheets/1505853.pdf )
+BC-2001 CR2032 2032 Battery Holder
+0
+3
 2
 Battery
 BatteryHolder_Seiko_MS621F
@@ -1279,6 +1293,13 @@ Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.c
 
 0
 7
+3
+Button_Switch_SMD
+SW_SPDT_REED_MSDM-DT
+Littlefuse 14.73x2.54mm, 175VDC 5W, SPDT Reed Switch MSDM-DT, https://www.littelfuse.com/~/media/electronics/datasheets/reed_switches/littelfuse_reed_switches_mdsm_dt_datasheet.pdf.pdf
+Littlefuse Reed SPDT Switch
+0
+3
 3
 Button_Switch_SMD
 SW_SPST_B3S-1000
@@ -8356,6 +8377,13 @@ Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/pri
 SMA Straight Samtec Edge Mount
 0
 5
+2
+Connector_Coaxial
+SMA_Wurth_60312102114405_Vertical
+Würth WR-SMA PCB SMT Jack, Vertical (https://www.we-online.com/components/products/datasheet/60312102114405.pdf)
+Coaxial Connector 50 ohms Female
+0
+3
 2
 Connector_Coaxial
 SMA_Wurth_60312002114503_Vertical
@@ -42638,7 +42666,7 @@ RJ12 RJ18 RJ25 jack connector 6P6C
 6
 Connector_RJ
 RJ45_Abracon_ARJP11A-MA_Horizontal
-Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)
+Shielded RJ45 ethernet connector with transformer and POE, https://abracon.com/Magnetics/lan/ARJP11A.PDF
 ethernet 8p8c transformer poe rj45
 0
 15
@@ -42665,6 +42693,13 @@ RJ45 8p8c dual ethernet cat5
 26
 25
 Connector_RJ
+RJ45_Amphenol_RJHSE538X-04
+Shielded, LEDs, 4 Ports, https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/rjhse538x04.pdf
+RJ45 8p8c quad ethernet cat5
+0
+52
+49
+Connector_RJ
 RJ45_Amphenol_RJHSE5380
 Shielded, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
 RJ45 8p8c ethernet cat5
@@ -42680,7 +42715,7 @@ RJ45 8p8c ethernet cat5
 65
 Connector_RJ
 RJ45_Amphenol_RJMG1BD3B8K1ANR
-1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenol-cs.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf
 RJ45 Magjack
 0
 14
@@ -46802,6 +46837,13 @@ USB 3.0 type A right angle
 13
 10
 Connector_USB
+USB3_A_Molex_48406-0001_Horizontal_Stacked
+USB 3.0, type A, right angle, stacked (https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/484/48406/484060001_sd.pdf)
+USB 3.0 type A right angle stacked dual
+0
+22
+19
+Connector_USB
 USB3_A_Plug_Wuerth_692112030100_Horizontal
 USB3 type A Plug, Horizontal, http://katalog.we-online.de/em/datasheet/692112030100.pdf
 usb A plug horizontal
@@ -46856,6 +46898,13 @@ https://www.molex.com/pdm_docs/sd/1050570001_sd.pdf
 USB A Vertical
 0
 7
+5
+Connector_USB
+USB_A_Receptacle_GCT_USB1046
+GCT USB1046, USB Type A, https://gct.co/files/drawings/usb1046.pdf
+USB SMD Type-A Receptacle Right Angle
+0
+8
 5
 Connector_USB
 USB_A_Stewart_SS-52100-001_Horizontal
@@ -47080,6 +47129,20 @@ USB Micro-B, horizontal, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawin
 USB Micro B horizontal
 0
 9
+6
+Connector_USB
+USB_Micro-B_Amphenol_10118193-0001LF_Horizontal
+USB Micro-B receptacle, horizontal, SMD, 10118193, with flange, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118193.pdf
+USB Micro-B horizontal SMD
+0
+11
+6
+Connector_USB
+USB_Micro-B_Amphenol_10118193-0002LF_Horizontal
+USB Micro-B receptacle, horizontal, SMD, 10118193, without flange, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118193.pdf
+USB Micro-B horizontal SMD
+0
+11
 6
 Connector_USB
 USB_Micro-B_Amphenol_10118194_Horizontal
@@ -53416,6 +53479,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+EL357N-G
+OPTO_EL357N-G
+
+
+0
+4
+4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -54082,6 +54152,20 @@ Fuse Nano2
 2
 2
 Fuse
+Fuse_Littelfuse-NANO2-462
+Littelfuse NANO2, 250VAC/VDC, 350VAC/VDC, 10.5 x 4.5 x 4.5mm, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=6201db33-6e55-43f2-b41f-15e38bdd2c99&filename=littelfuse-fuse-462-datasheet
+Fuse Nano2 462
+0
+2
+2
+Fuse
+Fuse_Littelfuse-NANO2-885
+Littelfuse NANO2, 350VAC, 450/500VDC, 10.86 x 4.78 x 4.78mm, https://www.littelfuse.com/media?resourcetype=datasheets&itemid=888f12ed-ed3b-4b45-b910-06af8854ad76&filename=littelfuse-fuse-885-datasheet
+Fuse Nano2 885
+0
+2
+2
+Fuse
 Fuse_Littelfuse_372_D8.50mm
 Fuse, Littelfuse, 372, 8.5x8mm, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_372_datasheet.pdf.pdf
 fuse tht radial
@@ -54537,12 +54621,40 @@ Heatsink sheet
 2
 1
 Heatsink
+Heatsink_Stonecold_HS-130_30x12mm_2xFixation2.5mm
+Heatsink, StoneCold HS, https://www.tme.eu/Document/da20d9b42617e16f6777c881dc9e3434/hs-130.pdf
+heatsink
+0
+2
+1
+Heatsink
 Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
 Heatsink, StoneCold HS
 heatsink
 0
 2
 1
+Heatsink
+Heatsink_Stonecold_HS-S01_13.21x6.35mm
+Heatsink, Stonecold, HS, https://www.tme.eu/Document/f7f93f538b934e0b08e09747396fb95f/hs-s.pdf
+heatsink
+0
+0
+0
+Heatsink
+Heatsink_Stonecold_HS-S02_13.21x9.53mm
+Heatsink, Stonecold, HS, https://www.tme.eu/Document/f7f93f538b934e0b08e09747396fb95f/hs-s.pdf
+heatsink
+0
+0
+0
+Heatsink
+Heatsink_Stonecold_HS-S03_13.21x12.7mm
+Heatsink, Stonecold, HS, https://www.tme.eu/Document/f7f93f538b934e0b08e09747396fb95f/hs-s.pdf
+heatsink
+0
+0
+0
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -55786,6 +55898,13 @@ Inductor_SMD
 L_CommonMode_Wuerth_WE-SL2
 http://katalog.we-online.de/en/pbs/WE-SL2?sid=5fbec16187#vs_t1:c1_ct:1
 Wuerth WE-SL2
+0
+4
+4
+Inductor_SMD
+L_CommonMode_Wurth_WE-CNSW-1206
+WE-CNSW SMT Common Mode Line Filter, https://www.we-online.com/components/products/datasheet/744232090.pdf
+common mode choke 1206 cnsw
 0
 4
 4
@@ -57634,6 +57753,20 @@ Inductor_SMD
 L_Wuerth_WE-TPC-3816
 L_Wuerth_WE-TPC-3816 StepUp generated footprint, http://katalog.we-online.de/pbs/datasheet/7440310047.pdf
 wurth wuerth smd inductor
+0
+2
+2
+Inductor_SMD
+L_Wuerth_WE-XHMI-8080
+Inductor, Wuerth, WE-XHMI 8080, 8.3mmx8.8mm (Script generated with StandardBox.py) (https://www.we-online.com/components/products/datasheet/74439358068.pdf)
+Inductor Wuerth WE-XHMI 8080
+0
+2
+2
+Inductor_SMD
+L_Wurth_WE-CAIR-5910
+WE-CAIR Air coil, https://www.we-online.com/components/products/datasheet/744918254.pdf
+air coil inductor wurth we cair
 0
 2
 2
@@ -59688,6 +59821,685 @@ solder jumper open
 0
 5
 3
+Keyboard Common
+1S LiPO 500mAh
+
+
+0
+0
+0
+Keyboard Common
+Diode_DO35_SOD123
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+4
+2
+Keyboard Common
+HRO_TYPE-C-31-M-12
+
+
+0
+20
+18
+Keyboard Common
+JST_PH_2_Breakout
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+6
+2
+Keyboard Common
+Jumper_Mini
+
+
+0
+2
+2
+Keyboard Common
+Jumper_min_v2
+
+
+0
+2
+2
+Keyboard Common
+Korean Hroparts Elec K2-1107ST-A3DW-06
+3x6x2.5mm tactile switch
+SPST button tactile switch
+0
+4
+3
+Keyboard Common
+LED_LiteOn_LTST-S326
+http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF
+LED SMD right angle  CCA
+0
+3
+3
+Keyboard Common
+MJ-4PP-9_alim
+
+
+0
+8
+4
+Keyboard Common
+MSK12C02
+MSK12C02-1
+Switch
+0
+7
+4
+Keyboard Common
+ProMicro
+
+
+0
+24
+24
+Keyboard Common
+RESISTOR_Reversible
+Resitance 3 pas
+R
+0
+2
+2
+Keyboard Common
+Resistors dual sided
+Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
+0
+2
+2
+Keyboard Common
+SOP127P600X175-9N
+
+
+0
+9
+9
+Keyboard Common
+SOT95P280X145-6N
+
+
+0
+6
+6
+Keyboard Common
+SSD1306-0.91-OLED-4pin-128x32
+
+
+0
+4
+4
+Keyboard Common
+SSD1306-0.91-OLED-4pin-128x32 doublesided
+
+
+0
+28
+8
+Keyboard Common
+SolderJumper-3_open_mini
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
+0
+5
+3
+Keyboard Common
+Spacer PCB hole
+Mounting Hole 3.7mm, no annular
+mounting hole 3.7mm no annular
+0
+0
+0
+Keyboard Common
+TP4056-18650
+
+
+0
+6
+6
+Keyboard Common
+TYPE-C-31-M-14
+Korean Hroparts Elec, Power only USB connector supporting up to 3A
+
+0
+20
+17
+Keyboard Common
+USON-8_4x3mm_P0.8mm
+WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lp2987.pdf#page=26), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+12
+9
+Keyboard Common
+YTS-A002
+
+
+0
+4
+3
+Keyboard Common
+nice!view
+Connecteur 6 pins
+CONN DEV
+0
+5
+5
+Keyboard Controllers
+ArduinoProMicro-BackSide
+
+
+0
+24
+24
+Keyboard Controllers
+ArduinoProMicro-BackSide_special
+
+
+0
+20
+20
+Keyboard Controllers
+ProMicro-FrontSide
+
+
+0
+24
+24
+Keyboard Controllers
+ProMicro_Reversible
+
+
+0
+24
+3
+Keyboard Controllers
+ProMicro_Reversible_orig
+
+
+0
+48
+24
+Keyboard Controllers
+ProMicro_jumpers
+Pro Micro footprint
+promicro ProMicro
+0
+168
+25
+Keyboard Controllers
+ProMicro_jumpers_V2
+Pro Micro footprint
+promicro ProMicro
+0
+168
+48
+Keyboard Controllers
+RP2040-Zero
+
+
+0
+23
+23
+Keyboard Controllers
+RP2040-Zero_reverse_mount
+
+
+0
+23
+23
+Keyboard Controllers
+RP2040-Zero_reverse_mount_flipped
+
+
+0
+23
+23
+Keyboard Controllers
+RP2040-Zero_reverse_mount_flipped_less_pins
+
+
+0
+19
+19
+Keyboard Controllers
+USON-8-1EP_3x2mm_P0.5mm_EP0.25x1.65mm
+USON, 8 Pin with EP (also knowwn as UDFN)
+USON UDFN 8-pins
+0
+9
+9
+Keyboard Controllers
+WeAct_BlackPill_3
+Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
+module BlluePill Blue Pill header SWD breakout
+0
+40
+40
+Keyboard Controllers
+WeAct_BlackPill_3_reverse_mount
+Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
+module BlluePill Blue Pill header SWD breakout
+0
+38
+38
+Keyboard Controllers
+XCVR_HOLYIOT-18010-NRF52840
+
+
+0
+55
+55
+Keyboard Controllers
+nRF52840_holyiot_18010
+
+
+0
+55
+55
+Keyboard Controllers
+nRF52840_holyiot_18010_HS_all
+
+
+0
+55
+55
+Keyboard Controllers
+nRF52840_holyiot_18010_HS_simple
+
+
+0
+37
+37
+Keyboard Encoders
+Encoder_Alps_EC11E_Offset_pad
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+7
+Keyboard Encoders
+Encoder_Alps_EC11E_STD
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+7
+Keyboard Encoders
+Encoder_Alps_EC11E_Small
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+7
+Keyboard Encoders
+Encoder_Plate_Placeholder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+Keyboard Encoders
+Encoder_Plate_Placeholder_nodrill
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+Keyboard Encoders
+Plate_Placeholder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+Keyboard RGB
+LED_SK6812MINI
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+Keyboard RGB
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+4
+4
+Keyboard RGB
+LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mmdouble
+https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
+LED RGB NeoPixel Mini
+0
+8
+4
+Keyboard RGB
+MINI_E_placeholder
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+0
+0
+Keyboard RGB
+MX_SK6812MINI-E_REVERSIBLE
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+8
+4
+Keyboard RGB
+RGB_SK6812MINI-E
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_2.00u
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_3.00u
+Cherry MX PCB Stabilizer 3.00u
+Cherry MX Keyboard Stabilizer 3.00u Cutout
+0
+0
+0
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_6.00u
+Cherry MX PCB Stabilizer 6.00u
+Cherry MX Keyboard Stabilizer 6.00u Cutout
+0
+0
+0
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_6.25u
+Cherry MX PCB Stabilizer 6.25u
+Cherry MX Keyboard Stabilizer 6.25u Cutout
+0
+0
+0
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_7.00u
+Cherry MX PCB Stabilizer 7.00u
+Cherry MX Keyboard Stabilizer 7.00u Cutout
+0
+0
+0
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_8.00u
+Cherry MX PCB Stabilizer 8.00u 9.00u 10.00u
+Cherry MX Keyboard Stabilizer 8.00u 9.00u 10.00u Cutout
+0
+0
+0
+Keyboard Switches
+SW_MX_HotSwap
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_1.5u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_1.25u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_1.75u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_1.75u_caps
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_2.25u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_2.75u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_2u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_ISO_Enter
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_Reversible
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+Keyboard Switches
+SW_MX_Solder
+MX-style keyswitch
+MX,cherry,gateron,kailh
+0
+2
+2
+Keyboard Switches
+SW_MX_Solder_Reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
+0
+4
+2
+Keyboard_Plate
+Amphenol_M8S-03PMMR-SF8001
+M8 Male connector for panel, 90° PCB mount (https://www.amphenolltw.com/2012download/2D%20PDF/03_M%20Series%20Sensor%20Connectors/M8S-XXPMMR-SF8001.pdf)
+three-pin M8
+0
+0
+0
+Keyboard_Plate
+MountingHole_2.5mm_Pad_TopOnly
+Mounting Hole 2.5mm
+mounting hole 2.5mm
+0
+2
+1
+Keyboard_Plate
+OLED Placeholder
+
+
+0
+0
+0
+Keyboard_Plate
+Plate_Split_Backspace
+MX-style stabilizer mount
+MX,cherry,gateron,kailh,pg1511,stabilizer,stab
+0
+0
+0
+Keyboard_Plate
+SPECIAL
+MX-style stabilizer mount
+MX,cherry,gateron,kailh,pg1511,stabilizer,stab
+0
+0
+0
+Keyboard_Plate
+SW_MX_Plate_Placeholder
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+0
+0
+Keyboard_Plate
+SW_MX_Plate_Placeholder_nodrill
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+0
+0
+Keyboard_Plate
+SW_MX_Plate_Placeholder_nodrill_NOBORDER
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+0
+0
+Keyboard_Plate
+Spacer Plate hole
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
+0
+0
+0
+Keyboard_Plate
+Spacer_Plate_Grounded
+Mounting Hole 2.5mm
+mounting hole 2.5mm
+0
+2
+1
+Keyboard_Plate
+Special 4u center
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+Keyboard_Plate
+Special 4u center (copper)
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+Keyboard_Plate
+Special 6u center
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+Keyboard_Plate
+Stabilizer_Cherry_MX_2.00u_PLate
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+Keyboard_Plate
+Stabilizer_Cherry_MX_2.00u_PLate_1_2
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+Keyboard_Plate
+oval hole
+
+
+0
+0
+0
+LCSC_Library
+DFN-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm
+8-Lead Plastic Dual Flat, No Lead Package (8MA2) - 2x3x0.6 mm Body (http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf)
+DFN 0.5
+0
+9
+9
+LCSC_Library
+ESOP-8_3.9x4.9mm_P1.27mm
+SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+20
+9
+LCSC_Library
+GT-USB-7014C
+
+
+0
+16
+13
+LCSC_Library
+HRO_TYPE-C-31-M-12
+
+
+0
+20
+18
+LCSC_Library
+MSK12C02
+MSK12C02-1
+Switch
+0
+7
+4
+LCSC_Library
+Molex-216990_GCT-USB45xx_HRO-TYPE-C-31-M-13x-PiMicro
+
+
+0
+20
+17
+LCSC_Library
+SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias
+SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX112.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+20
+9
+LCSC_Library
+SOT95P280X145-6N
+
+
+0
+6
+6
+LCSC_Library
+SW_TS-1187A-B-A-B
+
+
+0
+4
+4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -60822,6 +61634,195 @@ Yellow 5381 Series LED
 0
 2
 2
+LiPo batteries
+1S LiPO 80mAh 501040
+
+
+0
+2
+2
+LiPo batteries
+1S LiPO 120mAh 301230
+
+
+0
+0
+0
+LiPo batteries
+1S LiPO 380mAh
+
+
+0
+0
+0
+LiPo batteries
+1S LiPO 380mAh midmount
+
+
+0
+2
+2
+LiPo batteries
+1S LiPO 380mAh midmount (conn)
+
+
+0
+10
+2
+LiPo batteries
+1S LiPO 500mAh
+
+
+0
+0
+0
+LiPo batteries
+401230 130mAh
+
+
+0
+2
+2
+LiPo batteries
+501528 150mAh
+
+
+0
+0
+0
+LiPo batteries
+502050 500mAh
+
+
+0
+0
+0
+LiPo batteries
+502535 400mAh
+
+
+0
+0
+0
+Logotypes
+CC_BY_40
+
+
+0
+0
+0
+Logotypes
+CC_BY_NC_SA_40
+
+
+0
+0
+0
+Logotypes
+CC_BY_SA_40
+
+
+0
+0
+0
+Logotypes
+CC_BY_SA_40_line
+
+
+0
+0
+0
+Logotypes
+CC_BY_SA_40_small
+
+
+0
+0
+0
+Logotypes
+CC_BY_SA_40_tiny
+
+
+0
+0
+0
+Logotypes
+CC_BY_SA_40_tiny_notext
+
+
+0
+0
+0
+Logotypes
+Powered_by_QMK
+
+
+0
+0
+0
+Logotypes
+RefleXion
+
+
+0
+0
+0
+Logotypes
+RefleXion 60
+
+
+0
+0
+0
+Logotypes
+RefleXion 65
+
+
+0
+0
+0
+Logotypes
+RefleXion 65b
+
+
+0
+0
+0
+Logotypes
+RefleXion 652
+
+
+0
+0
+0
+Logotypes
+X65
+
+
+0
+0
+0
+Logotypes
+qmk logo
+
+
+0
+0
+0
+Logotypes
+star
+
+
+0
+0
+0
+Logotypes
+test2
+
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -63987,6 +64988,13 @@ Resistor LDR
 2
 2
 OptoDevice
+Renesas_DFN-6_1.5x1.6mm_P0.5mm
+DFN, 6 Pin (https://www.renesas.com/us/en/document/psc/package-drawing-hodfn-6pin-l615x16?language=en&r=568376)
+DFN NoLead
+0
+6
+6
+OptoDevice
 ST_VL53L0X
 https://www.st.com/resource/en/datasheet/vl53l1x.pdf
 laser-ranging sensor
@@ -64525,6 +65533,34 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PCM_kikit
+Board
+Mark board for extraction
+
+0
+0
+0
+PCM_kikit
+Fiducial
+Circular Fiducial
+fiducial
+0
+1
+0
+PCM_kikit
+NPTH
+
+
+0
+0
+0
+PCM_kikit
+Tab
+A symbol representing annotation for tab placement
+
+0
+0
+0
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -65117,6 +66153,20 @@ Package_BGA
 Texas_DSBGA-6_0.704x1.054mm_Layout2x3_P0.35mm
 Texas Instruments, DSBGA-6, 0.704x1.054mm, NSMD, YKA pad definition, 0.704x1.054mm, 6 Ball, 2x3 Layout, 0.35mm Pitch, https://www.ti.com/lit/ml/mxbg383/mxbg383.pdf, https://www.ti.com/lit/ds/symlink/tps62800.pdf
 BGA 6 0.35
+0
+6
+6
+Package_BGA
+Texas_DSBGA-6_0.855x1.255mm_Layout2x3_P0.4mm_LevelB
+Texas Instruments, DSBGA, area grid, YBG pad definition, 0.95x1.488mm, 6 Ball, 2x3 Layout, 0.4mm Pitch, YFF0006, NSMD pad definition,  https://www.ti.com/lit/ds/symlink/lmg1020.pdf, https://www.ti.com/lit/ml/mxbg078z/mxbg078z.pdf
+BGA 6 0.4 YFF0006
+0
+6
+6
+Package_BGA
+Texas_DSBGA-6_0.855x1.255mm_Layout2x3_P0.4mm_LevelC
+Texas Instruments, DSBGA, area grid, YBG pad definition, 0.95x1.488mm, 6 Ball, 2x3 Layout, 0.4mm Pitch, YFF0006, NSMD pad definition,  https://www.ti.com/lit/ds/symlink/lmg1020.pdf, https://www.ti.com/lit/ml/mxbg078z/mxbg078z.pdf
+BGA 6 0.4 YFF0006
 0
 6
 6
@@ -67284,6 +68334,13 @@ mlpq 32 7x7mm
 76
 33
 Package_DFN_QFN
+Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
+MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2052mpbf.pdf?fileId=5546d462533600a401535675d3b32788)
+mlpq 32 7x7mm
+0
+115
+49
+Package_DFN_QFN
 Infineon_MLPQ-48-1EP_7x7mm_P0.5mm_EP5.55x5.55mm
 MLPQ 48 leads, 7x7mm (https://www.infineon.com/dgdl/irs2093mpbf.pdf?fileId=5546d462533600a401535675fb892793)
 mlpq 32 7x7mm
@@ -68047,6 +69104,20 @@ QFN NoLead
 67
 25
 Package_DFN_QFN
+QFN-24-1EP_5x5mm_P0.65mm_EP3.25x3.25mm
+QFN, 24 Pin (https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MDkO/lWPNMeJClEs8Zvyu7AlDlKSyZqhYdVpQzFLVfUp.EXs), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+29
+25
+Package_DFN_QFN
+QFN-24-1EP_5x5mm_P0.65mm_EP3.25x3.25mm_ThermalVias
+QFN, 24 Pin (https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MDkO/lWPNMeJClEs8Zvyu7AlDlKSyZqhYdVpQzFLVfUp.EXs), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+51
+25
+Package_DFN_QFN
 QFN-28-1EP_3x6mm_P0.5mm_EP1.7x4.75mm
 QFN, 28 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/05081926_0_UDE28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -68628,6 +69699,34 @@ QFN NoLead
 91
 49
 Package_DFN_QFN
+QFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm
+QFN, 48 Pin (http://ww1.microchip.com/downloads/en/devicedoc/00002117f.pdf#page=69), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+58
+49
+Package_DFN_QFN
+QFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_ThermalVias
+QFN, 48 Pin (http://ww1.microchip.com/downloads/en/devicedoc/00002117f.pdf#page=69), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+75
+49
+Package_DFN_QFN
+QFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm
+QFN, 48 Pin (http://ww1.microchip.com/downloads/en/devicedoc/00002117f.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+65
+49
+Package_DFN_QFN
+QFN-48-1EP_7x7mm_P0.5mm_EP5.1x5.1mm_ThermalVias
+QFN, 48 Pin (http://ww1.microchip.com/downloads/en/devicedoc/00002117f.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+91
+49
+Package_DFN_QFN
 QFN-48-1EP_7x7mm_P0.5mm_EP5.3x5.3mm
 QFN, 48 Pin (https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2041_datasheet.pdf#page=62), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -68812,6 +69911,20 @@ QFN NoLead
 Package_DFN_QFN
 QFN-56-1EP_8x8mm_P0.5mm_EP5.9x5.9mm_ThermalVias
 QFN, 56 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00001734B.pdf#page=50), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+99
+57
+Package_DFN_QFN
+QFN-56-1EP_8x8mm_P0.5mm_EP6.1x6.1mm
+QFN, 56 Pin (http://intantech.com/files/Intan_RHD2000_series_datasheet.pdf#page=38), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+73
+57
+Package_DFN_QFN
+QFN-56-1EP_8x8mm_P0.5mm_EP6.1x6.1mm_ThermalVias
+QFN, 56 Pin (http://intantech.com/files/Intan_RHD2000_series_datasheet.pdf#page=38), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
 0
 99
@@ -69104,6 +70217,13 @@ UFQFPN 0.5
 20
 20
 Package_DFN_QFN
+ST_UQFN-6L_1.5x1.7mm_P0.5mm
+ST UQFN 6 pin 0.5mm Pitch http://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf
+UQFN DFN 0.5 ST
+0
+6
+6
+Package_DFN_QFN
 ST_UQFN-6L_1.5x1.7mm_Pitch0.5mm
 ST UQFN 6 pin 0.5mm Pitch http://www.st.com/resource/en/datasheet/ecmf02-2amx6.pdf
 UQFN DFN 0.5 ST
@@ -69278,6 +70398,20 @@ TQFN NoLead
 0
 31
 17
+Package_DFN_QFN
+TQFN-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-2)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+25
+21
+Package_DFN_QFN
+TQFN-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm_ThermalVias
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-2)), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+30
+21
 Package_DFN_QFN
 TQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
 TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-5C)), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -69593,6 +70727,20 @@ QFN NoLead
 0
 27
 18
+Package_DFN_QFN
+Texas_RGY_R-PVQFN-N20_EP2.05x3.05mm
+QFN, 20 Pin, RGY0020A (https://www.ti.com/lit/ds/symlink/txb0108.pdf#page=33)
+QFN NoLead
+0
+25
+21
+Package_DFN_QFN
+Texas_RGY_R-PVQFN-N20_EP2.05x3.05mm_ThermalVias
+QFN, 20 Pin, RGY0020A (https://www.ti.com/lit/ds/symlink/txb0108.pdf#page=33)
+QFN NoLead
+0
+29
+21
 Package_DFN_QFN
 Texas_RGY_R-PVQFN-N24_EP2.05x3.1mm
 QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/bq24133.pdf#page=40)
@@ -70448,6 +71596,20 @@ VQFN NoLead
 91
 65
 Package_DFN_QFN
+Vishay_PowerPAK_MLP44-24L
+PowerPAK PowerPAK MLP44-24L (https://www.vishay.com/docs/78231/mlp44-24l.pdf)
+powerpak mlp44-24l
+0
+28
+28
+Package_DFN_QFN
+Vishay_PowerPAK_MLP44-24L_ThermalVias
+PowerPAK PowerPAK MLP44-24L (https://www.vishay.com/docs/78231/mlp44-24l.pdf)
+powerpak mlp44-24l
+0
+35
+28
+Package_DFN_QFN
 W-PDFN-8-1EP_6x5mm_P1.27mm_EP3x3mm
 W-PDFN, 8 Pin (https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/nor-flash/serial-nor/mt25q/die-rev-a/mt25q_qljs_u_256_aba_0.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py
 W-PDFN NoLead
@@ -70545,6 +71707,20 @@ WQFN NoLead
 0
 24
 15
+Package_DFN_QFN
+WQFN-16-1EP_3x3mm_P0.5mm_EP0.8x1.2mm
+WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tps43060.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+21
+17
+Package_DFN_QFN
+WQFN-16-1EP_3x3mm_P0.5mm_EP0.8x1.2mm_ThermalVias
+WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tps43060.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+23
+17
 Package_DFN_QFN
 WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
 WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tpa6132a2.pdf#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -76251,6 +77427,20 @@ USON-20 2x4mm Pitch 0.4mm
 20
 20
 Package_SON
+VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm
+VSON, 8 Pin (https://www.ti.com/lit/pdf/qfnd619), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
+0
+10
+9
+Package_SON
+VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm_ThermalVias
+VSON, 8 Pin (https://www.ti.com/lit/pdf/qfnd619), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
+0
+16
+9
+Package_SON
 VSON-8_1.5x2mm_P0.5mm
 VSON, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62840.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
 VSON NoLead
@@ -79148,6 +80338,13 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Panansonic EVPAVAA1A
+EVPAVAA1A
+EVP-AVAA1A-2
+Switch
+0
+4
+4
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -80108,6 +81305,13 @@ Antenna ProAnt OnBoard 868Mhz 915Mhz 2400Mhz
 6
 6
 RF_Antenna
+Antenova_SR4G013_GPS
+GPS/GLONASS/Galileo/BeiDou antenna, 1559-1609Mhz, SMD, https://www.application-datasheet.com/pdf/antenova/sr4g013.pdf
+antenna GPS Antenova Beltii
+0
+5
+2
+RF_Antenna
 Astrocast_AST50127-00
 L-band patch antenna, https://docs.astrocast.com/dl/0534-DOC-M2M-ASTRO-Patch_Antenna-Datasheet.pdf
 L-band antenna astrocast Patch Antenna
@@ -80134,6 +81338,13 @@ Johanson 2450AT43F0100 SMD antenna 2400-2500Mhz, 1dBi, https://www.johansontechn
 antenna
 0
 2
+2
+RF_Antenna
+Molex_47948-0001_2.4Ghz
+SMD antenna 2400-2500Mhz, 3.7dBi, https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/productspecificationpdf/479/47948/PS-47948-001-001.pdf?inline
+rf antenna
+0
+4
 2
 RF_Antenna
 Pulse_W3011
@@ -81143,6 +82354,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RP2040-Zero
+RP2040-Zero
+
+
+0
+23
+23
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -81375,6 +82593,13 @@ Kemet EC2 signal relay DPDT double dual coil latching through hole THT
 10
 10
 Relay_THT
+Relay_DPDT_Omron_G2RL
+Omron Relay DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay DPDT
+0
+8
+8
+Relay_THT
 Relay_DPDT_Omron_G2RL-2
 Omron Relay, DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
 Omron Relay DPDT
@@ -81518,6 +82743,13 @@ Relay_THT
 Relay_SPDT_Finder_40.51
 Relay DPDT Finder 40.51, Pitch 5mm/7.5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf
 Relay DPDT Finder 40.51 Pitch 5mm
+0
+5
+5
+Relay_THT
+Relay_SPDT_Fujitsu_FTR-LYCA005x_FormC_Vertical
+Relay, SPDT Form C, vertical mount, 6A, 5-60V, https://www.fujitsu.com/sg/imagesgig5/ftr-ly.pdf
+relay SPDT form c vertical
 0
 5
 5
@@ -81669,6 +82901,13 @@ Standex Meder SIL reed relais
 5
 5
 Relay_THT
+Relay_SPST-NO_Fujitsu_FTR-LYAA005x_FormA_Vertical
+Relay, SPST-NO Form A, vertical mount, 6A, 5-60V, https://www.fujitsu.com/sg/imagesgig5/ftr-ly.pdf
+relay SPST-NO form A vertical
+0
+4
+4
+Relay_THT
 Relay_SPST_Finder_32.21-x300
 Finder 32.21-x300 Relay, SPST, https://gfinder.findernet.com/assets/Series/355/S32EN.pdf
 Finder 32.21-x300 Relay SPST
@@ -81695,6 +82934,20 @@ Omron Relay, SPST, High Capacity,  https://omronfs.omron.com/en_US/ecb/products/
 Omron Relay SPST High Capacity
 0
 6
+4
+Relay_THT
+Relay_SPST_Panasonic_ALFG_FormA
+Panasonic Relay SPST, https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lfg.pdf
+Panasonic Relay SPST
+0
+4
+4
+Relay_THT
+Relay_SPST_Panasonic_ALFG_FormA_CircularHoles
+Panasonic Relay SPST, https://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_lfg.pdf
+Panasonic Relay SPST
+0
+4
 4
 Relay_THT
 Relay_SPST_Panasonic_JW1_FormA
@@ -88963,6 +90216,13 @@ RF Transformer
 5
 5
 Transformer_SMD
+Transformer_MiniCircuits_AT224-1A
+SMD RF transformer, 50 ohm, 4.5 to 3000Mhz, https://www.minicircuits.com/pdfs/TC1-1-13M+.pdf
+RF Transformer
+0
+5
+5
+Transformer_SMD
 Transformer_Murata_78250JC
 Murata 78250JC https://www.murata-ps.com/datasheet?/data/magnetics/kmp_78250j.pdf
 Murata transformer
@@ -90306,101 +91566,822 @@ varistor
 0
 2
 2
-oddball
-Diode
+XIAO_PCB
+MOUDLE14P-2.54-21X17.8MM
 
 
+0
+14
+14
+XIAO_PCB
+MOUDLE14P-SMD-2.54-21X17.8MM
+
+
+0
+14
+14
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm^2 drill 1.3mm pad 2.6mm
 0
 2
 2
-oddball
-Elite-C
-
-
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-2, 2 pins, pitch 5mm, size 10x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-2 pitch 5mm size 10x9.8mm^2 drill 1.3mm pad 2.6mm
 0
-29
-29
-oddball
-Hybrid_PLATE_100H_Dual_hole-flip
-
-
+2
+2
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-3-5.08, 3 pins, pitch 5.08mm, size 15.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-3-5.08 pitch 5.08mm size 15.2x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-3, 3 pins, pitch 5mm, size 15x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-3 pitch 5mm size 15x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-4-5.08, 4 pins, pitch 5.08mm, size 20.3x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-4-5.08 pitch 5.08mm size 20.3x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-4_1x04_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-4, 4 pins, pitch 5mm, size 20x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-4 pitch 5mm size 20x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-5-5.08_1x05_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-5-5.08, 5 pins, pitch 5.08mm, size 25.4x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-5-5.08 pitch 5.08mm size 25.4x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-5_1x05_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-5, 5 pins, pitch 5mm, size 25x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-5 pitch 5mm size 25x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-6-5.08, 6 pins, pitch 5.08mm, size 30.5x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-6-5.08 pitch 5.08mm size 30.5x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-6_1x06_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-6, 6 pins, pitch 5mm, size 30x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-6 pitch 5mm size 30x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-7-5.08_1x07_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-7-5.08, 7 pins, pitch 5.08mm, size 35.6x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-7-5.08 pitch 5.08mm size 35.6x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+7
+7
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-7_1x07_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-7, 7 pins, pitch 5mm, size 35x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-7 pitch 5mm size 35x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+7
+7
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-8-5.08_1x08_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-8-5.08, 8 pins, pitch 5.08mm, size 40.6x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-8-5.08 pitch 5.08mm size 40.6x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+8
+8
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-8_1x08_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-8, 8 pins, pitch 5mm, size 40x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-8 pitch 5mm size 40x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+8
+8
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-9-5.08_1x09_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-9-5.08, 9 pins, pitch 5.08mm, size 45.7x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-9-5.08 pitch 5.08mm size 45.7x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+9
+9
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-9_1x09_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-9, 9 pins, pitch 5mm, size 45x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-9 pitch 5mm size 45x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+9
+9
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-10-5.08_1x10_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-10-5.08, 10 pins, pitch 5.08mm, size 50.8x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-10-5.08 pitch 5.08mm size 50.8x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+10
+10
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-10_1x10_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-10, 10 pins, pitch 5mm, size 50x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-10 pitch 5mm size 50x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+10
+10
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-11-5.08_1x11_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-11-5.08, 11 pins, pitch 5.08mm, size 55.9x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-11-5.08 pitch 5.08mm size 55.9x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+11
+11
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-11_1x11_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-11, 11 pins, pitch 5mm, size 55x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-11 pitch 5mm size 55x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+11
+11
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-12-5.08_1x12_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-12-5.08, 12 pins, pitch 5.08mm, size 61x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-12-5.08 pitch 5.08mm size 61x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+12
+12
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-12_1x12_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-12, 12 pins, pitch 5mm, size 60x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-12 pitch 5mm size 60x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+12
+12
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-13-5.08_1x13_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-13-5.08, 13 pins, pitch 5.08mm, size 66x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-13-5.08 pitch 5.08mm size 66x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+13
+13
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-13_1x13_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-13, 13 pins, pitch 5mm, size 65x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-13 pitch 5mm size 65x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+13
+13
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-14-5.08_1x14_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-14-5.08, 14 pins, pitch 5.08mm, size 71.1x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-14-5.08 pitch 5.08mm size 71.1x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+14
+14
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-14_1x14_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-14, 14 pins, pitch 5mm, size 70x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-14 pitch 5mm size 70x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+14
+14
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-15-5.08_1x15_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-15-5.08, 15 pins, pitch 5.08mm, size 76.2x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-15-5.08 pitch 5.08mm size 76.2x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+15
+15
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-15_1x15_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-15, 15 pins, pitch 5mm, size 75x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-15 pitch 5mm size 75x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+15
+15
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-16-5.08_1x16_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-16-5.08, 16 pins, pitch 5.08mm, size 81.3x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-16-5.08 pitch 5.08mm size 81.3x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+16
+16
+phoenix
+TerminalBlock_Phoenix_MKDS-1,5-16_1x16_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-16, 16 pins, pitch 5mm, size 80x9.8mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/100425.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-16 pitch 5mm size 80x9.8mm^2 drill 1.3mm pad 2.6mm
+0
+16
+16
+phoenix
+TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-2-5.08, 2 pins, pitch 5.08mm, size 10.2x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-2-5.08 pitch 5.08mm size 10.2x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+phoenix
+TerminalBlock_Phoenix_MKDS-3-3-5.08_1x03_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-3-5.08, 3 pins, pitch 5.08mm, size 15.2x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-3-5.08 pitch 5.08mm size 15.2x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+phoenix
+TerminalBlock_Phoenix_MKDS-3-4-5.08_1x04_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-4-5.08, 4 pins, pitch 5.08mm, size 20.3x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-4-5.08 pitch 5.08mm size 20.3x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+phoenix
+TerminalBlock_Phoenix_MKDS-3-5-5.08_1x05_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-5-5.08, 5 pins, pitch 5.08mm, size 25.4x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-5-5.08 pitch 5.08mm size 25.4x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+phoenix
+TerminalBlock_Phoenix_MKDS-3-6-5.08_1x06_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-6-5.08, 6 pins, pitch 5.08mm, size 30.5x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-6-5.08 pitch 5.08mm size 30.5x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+phoenix
+TerminalBlock_Phoenix_MKDS-3-7-5.08_1x07_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-7-5.08, 7 pins, pitch 5.08mm, size 35.6x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-7-5.08 pitch 5.08mm size 35.6x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+7
+7
+phoenix
+TerminalBlock_Phoenix_MKDS-3-8-5.08_1x08_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-8-5.08, 8 pins, pitch 5.08mm, size 40.6x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-8-5.08 pitch 5.08mm size 40.6x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+8
+8
+phoenix
+TerminalBlock_Phoenix_MKDS-3-9-5.08_1x09_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-9-5.08, 9 pins, pitch 5.08mm, size 45.7x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-9-5.08 pitch 5.08mm size 45.7x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+9
+9
+phoenix
+TerminalBlock_Phoenix_MKDS-3-10-5.08_1x10_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-10-5.08, 10 pins, pitch 5.08mm, size 50.8x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-10-5.08 pitch 5.08mm size 50.8x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+10
+10
+phoenix
+TerminalBlock_Phoenix_MKDS-3-11-5.08_1x11_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-11-5.08, 11 pins, pitch 5.08mm, size 55.9x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-11-5.08 pitch 5.08mm size 55.9x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+11
+11
+phoenix
+TerminalBlock_Phoenix_MKDS-3-12-5.08_1x12_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-12-5.08, 12 pins, pitch 5.08mm, size 61x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-12-5.08 pitch 5.08mm size 61x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+12
+12
+phoenix
+TerminalBlock_Phoenix_MKDS-3-13-5.08_1x13_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-13-5.08, 13 pins, pitch 5.08mm, size 66x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-13-5.08 pitch 5.08mm size 66x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+13
+13
+phoenix
+TerminalBlock_Phoenix_MKDS-3-14-5.08_1x14_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-14-5.08, 14 pins, pitch 5.08mm, size 71.1x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-14-5.08 pitch 5.08mm size 71.1x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+14
+14
+phoenix
+TerminalBlock_Phoenix_MKDS-3-15-5.08_1x15_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-15-5.08, 15 pins, pitch 5.08mm, size 76.2x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-15-5.08 pitch 5.08mm size 76.2x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+15
+15
+phoenix
+TerminalBlock_Phoenix_MKDS-3-16-5.08_1x16_P5.08mm_Horizontal
+Terminal Block Phoenix MKDS-3-16-5.08, 16 pins, pitch 5.08mm, size 81.3x11.2mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.farnell.com/datasheets/2138224.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-3-16-5.08 pitch 5.08mm size 81.3x11.2mm^2 drill 1.3mm pad 2.6mm
+0
+16
+16
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-2-2.54, 2 pins, pitch 2.54mm, size 5.54x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725656-920552.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-2-2.54 pitch 2.54mm size 5.54x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+2
+2
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-3-2.54, 3 pins, pitch 2.54mm, size 8.08x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725656-920552.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-3-2.54 pitch 2.54mm size 8.08x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+3
+3
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-4-2.54_1x04_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-4-2.54, 4 pins, pitch 2.54mm, size 10.6x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-4-2.54 pitch 2.54mm size 10.6x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+4
+4
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-5-2.54_1x05_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-5-2.54, 5 pins, pitch 2.54mm, size 13.2x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-5-2.54 pitch 2.54mm size 13.2x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+5
+5
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-6-2.54_1x06_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-6-2.54, 6 pins, pitch 2.54mm, size 15.7x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-6-2.54 pitch 2.54mm size 15.7x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+6
+6
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-7-2.54_1x07_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-7-2.54, 7 pins, pitch 2.54mm, size 18.2x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-7-2.54 pitch 2.54mm size 18.2x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+7
+7
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-8-2.54_1x08_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-8-2.54, 8 pins, pitch 2.54mm, size 20.8x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-8-2.54 pitch 2.54mm size 20.8x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+8
+8
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-9-2.54_1x09_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-9-2.54, 9 pins, pitch 2.54mm, size 23.3x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-9-2.54 pitch 2.54mm size 23.3x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+9
+9
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-10-2.54_1x10_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-10-2.54, 10 pins, pitch 2.54mm, size 25.9x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-10-2.54 pitch 2.54mm size 25.9x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+10
+10
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-11-2.54_1x11_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-11-2.54, 11 pins, pitch 2.54mm, size 28.4x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-11-2.54 pitch 2.54mm size 28.4x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+11
+11
+phoenix
+TerminalBlock_Phoenix_MPT-0,5-12-2.54_1x12_P2.54mm_Horizontal
+Terminal Block Phoenix MPT-0,5-12-2.54, 12 pins, pitch 2.54mm, size 30.9x6.2mm^2, drill diamater 1.1mm, pad diameter 2.2mm, see http://www.mouser.com/ds/2/324/ItemDetail_1725672-916605.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MPT-0,5-12-2.54 pitch 2.54mm size 30.9x6.2mm^2 drill 1.1mm pad 2.2mm
+0
+12
+12
+phoenix
+TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-2-3.5-H, 2 pins, pitch 3.5mm, size 7x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-2-3.5-H pitch 3.5mm size 7x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+2
+2
+phoenix
+TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-2-5.0-H, 2 pins, pitch 5mm, size 10x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-2-5.0-H pitch 5mm size 10x9mm^2 drill 1.3mm pad 2.6mm
+0
+2
+2
+phoenix
+TerminalBlock_Phoenix_PT-1,5-3-3.5-H_1x03_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-3-3.5-H, 3 pins, pitch 3.5mm, size 10.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-3-3.5-H pitch 3.5mm size 10.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+3
+3
+phoenix
+TerminalBlock_Phoenix_PT-1,5-3-5.0-H_1x03_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-3-5.0-H, 3 pins, pitch 5mm, size 15x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-3-5.0-H pitch 5mm size 15x9mm^2 drill 1.3mm pad 2.6mm
+0
+3
+3
+phoenix
+TerminalBlock_Phoenix_PT-1,5-4-3.5-H_1x04_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-4-3.5-H, 4 pins, pitch 3.5mm, size 14x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-4-3.5-H pitch 3.5mm size 14x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+4
+4
+phoenix
+TerminalBlock_Phoenix_PT-1,5-4-5.0-H_1x04_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-4-5.0-H, 4 pins, pitch 5mm, size 20x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-4-5.0-H pitch 5mm size 20x9mm^2 drill 1.3mm pad 2.6mm
+0
+4
+4
+phoenix
+TerminalBlock_Phoenix_PT-1,5-5-3.5-H_1x05_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-5-3.5-H, 5 pins, pitch 3.5mm, size 17.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-5-3.5-H pitch 3.5mm size 17.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+5
+5
+phoenix
+TerminalBlock_Phoenix_PT-1,5-5-5.0-H_1x05_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-5-5.0-H, 5 pins, pitch 5mm, size 25x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-5-5.0-H pitch 5mm size 25x9mm^2 drill 1.3mm pad 2.6mm
+0
+5
+5
+phoenix
+TerminalBlock_Phoenix_PT-1,5-6-3.5-H_1x06_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-6-3.5-H, 6 pins, pitch 3.5mm, size 21x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-6-3.5-H pitch 3.5mm size 21x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+6
+6
+phoenix
+TerminalBlock_Phoenix_PT-1,5-6-5.0-H_1x06_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-6-5.0-H, 6 pins, pitch 5mm, size 30x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-6-5.0-H pitch 5mm size 30x9mm^2 drill 1.3mm pad 2.6mm
+0
+6
+6
+phoenix
+TerminalBlock_Phoenix_PT-1,5-7-3.5-H_1x07_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-7-3.5-H, 7 pins, pitch 3.5mm, size 24.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-7-3.5-H pitch 3.5mm size 24.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+7
+7
+phoenix
+TerminalBlock_Phoenix_PT-1,5-7-5.0-H_1x07_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-7-5.0-H, 7 pins, pitch 5mm, size 35x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-7-5.0-H pitch 5mm size 35x9mm^2 drill 1.3mm pad 2.6mm
+0
+7
+7
+phoenix
+TerminalBlock_Phoenix_PT-1,5-8-3.5-H_1x08_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-8-3.5-H, 8 pins, pitch 3.5mm, size 28x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-8-3.5-H pitch 3.5mm size 28x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+8
+8
+phoenix
+TerminalBlock_Phoenix_PT-1,5-8-5.0-H_1x08_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-8-5.0-H, 8 pins, pitch 5mm, size 40x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-8-5.0-H pitch 5mm size 40x9mm^2 drill 1.3mm pad 2.6mm
+0
+8
+8
+phoenix
+TerminalBlock_Phoenix_PT-1,5-9-3.5-H_1x09_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-9-3.5-H, 9 pins, pitch 3.5mm, size 31.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-9-3.5-H pitch 3.5mm size 31.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+9
+9
+phoenix
+TerminalBlock_Phoenix_PT-1,5-9-5.0-H_1x09_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-9-5.0-H, 9 pins, pitch 5mm, size 45x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-9-5.0-H pitch 5mm size 45x9mm^2 drill 1.3mm pad 2.6mm
+0
+9
+9
+phoenix
+TerminalBlock_Phoenix_PT-1,5-10-3.5-H_1x10_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-10-3.5-H, 10 pins, pitch 3.5mm, size 35x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-10-3.5-H pitch 3.5mm size 35x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+10
+10
+phoenix
+TerminalBlock_Phoenix_PT-1,5-10-5.0-H_1x10_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-10-5.0-H, 10 pins, pitch 5mm, size 50x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-10-5.0-H pitch 5mm size 50x9mm^2 drill 1.3mm pad 2.6mm
+0
+10
+10
+phoenix
+TerminalBlock_Phoenix_PT-1,5-11-3.5-H_1x11_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-11-3.5-H, 11 pins, pitch 3.5mm, size 38.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-11-3.5-H pitch 3.5mm size 38.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+11
+11
+phoenix
+TerminalBlock_Phoenix_PT-1,5-11-5.0-H_1x11_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-11-5.0-H, 11 pins, pitch 5mm, size 55x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-11-5.0-H pitch 5mm size 55x9mm^2 drill 1.3mm pad 2.6mm
+0
+11
+11
+phoenix
+TerminalBlock_Phoenix_PT-1,5-12-3.5-H_1x12_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-12-3.5-H, 12 pins, pitch 3.5mm, size 42x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-12-3.5-H pitch 3.5mm size 42x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+12
+12
+phoenix
+TerminalBlock_Phoenix_PT-1,5-12-5.0-H_1x12_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-12-5.0-H, 12 pins, pitch 5mm, size 60x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-12-5.0-H pitch 5mm size 60x9mm^2 drill 1.3mm pad 2.6mm
+0
+12
+12
+phoenix
+TerminalBlock_Phoenix_PT-1,5-13-3.5-H_1x13_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-13-3.5-H, 13 pins, pitch 3.5mm, size 45.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-13-3.5-H pitch 3.5mm size 45.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+13
+13
+phoenix
+TerminalBlock_Phoenix_PT-1,5-13-5.0-H_1x13_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-13-5.0-H, 13 pins, pitch 5mm, size 65x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-13-5.0-H pitch 5mm size 65x9mm^2 drill 1.3mm pad 2.6mm
+0
+13
+13
+phoenix
+TerminalBlock_Phoenix_PT-1,5-14-3.5-H_1x14_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-14-3.5-H, 14 pins, pitch 3.5mm, size 49x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-14-3.5-H pitch 3.5mm size 49x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+14
+14
+phoenix
+TerminalBlock_Phoenix_PT-1,5-14-5.0-H_1x14_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-14-5.0-H, 14 pins, pitch 5mm, size 70x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-14-5.0-H pitch 5mm size 70x9mm^2 drill 1.3mm pad 2.6mm
+0
+14
+14
+phoenix
+TerminalBlock_Phoenix_PT-1,5-15-3.5-H_1x15_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-15-3.5-H, 15 pins, pitch 3.5mm, size 52.5x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-15-3.5-H pitch 3.5mm size 52.5x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+15
+15
+phoenix
+TerminalBlock_Phoenix_PT-1,5-15-5.0-H_1x15_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-15-5.0-H, 15 pins, pitch 5mm, size 75x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-15-5.0-H pitch 5mm size 75x9mm^2 drill 1.3mm pad 2.6mm
+0
+15
+15
+phoenix
+TerminalBlock_Phoenix_PT-1,5-16-3.5-H_1x16_P3.50mm_Horizontal
+Terminal Block Phoenix PT-1,5-16-3.5-H, 16 pins, pitch 3.5mm, size 56x7.6mm^2, drill diamater 1.2mm, pad diameter 2.4mm, see , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-16-3.5-H pitch 3.5mm size 56x7.6mm^2 drill 1.2mm pad 2.4mm
+0
+16
+16
+phoenix
+TerminalBlock_Phoenix_PT-1,5-16-5.0-H_1x16_P5.00mm_Horizontal
+Terminal Block Phoenix PT-1,5-16-5.0-H, 16 pins, pitch 5mm, size 80x9mm^2, drill diamater 1.3mm, pad diameter 2.6mm, see http://www.mouser.com/ds/2/324/ItemDetail_1935161-922578.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PT-1,5-16-5.0-H pitch 5mm size 80x9mm^2 drill 1.3mm pad 2.6mm
+0
+16
+16
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-2-2,5-V-SMD_1x02-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 2 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814702/pdf
+PhoenixContact PTSM0.5 2 2.5mm vertical SMD spring clamp terminal block connector 
+0
+4
+3
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-2-2.5-H-THR_1x02_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-2-2.5-H-THR, 2 pins, pitch 2.5mm, size 7.2x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-2-2.5-H-THR pitch 2.5mm size 7.2x10mm^2 drill 1.2mm pad 3mm
 0
 4
 2
-oddball
-LargeOvalCut
-
-
-0
-0
-0
-oddball
-MX_PLATE_100H_Dual_hole-flip
-
-
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-2-2.5-V-THR_1x02_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-2-2.5-V-THR, vertical (cable from top), 2 pins, pitch 2.5mm, size 5.5x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-2-2.5-V-THR vertical pitch 2.5mm size 5.5x5mm^2 drill 1.2mm pad 2mm
 0
 4
 2
-oddball
-MediumOvalCut
-
-
-0
-0
-0
-oddball
-Mount
-
-
-0
-0
-0
-oddball
-PerfHole
-
-
-0
-0
-0
-oddball
-PinSocket_1x04_P2.54mm_Vertical
-Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x04 2.54mm single row
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-2-HV-2.5-SMD_1x02-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 2 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778696/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
 0
 4
-4
-oddball
-SW_Tactile_SPST_Angled_MJTP1117
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+3
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-3-2,5-V-SMD_1x03-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 3 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814715/pdf
+PhoenixContact PTSM0.5 3 2.5mm vertical SMD spring clamp terminal block connector 
 0
+5
 4
-2
-oddball
-TRRS-PJ-320A-dual
-
-
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-3-2.5-H-THR_1x03_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-3-2.5-H-THR, 3 pins, pitch 2.5mm, size 9.7x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-3-2.5-H-THR pitch 2.5mm size 9.7x10mm^2 drill 1.2mm pad 3mm
+0
+6
+3
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-3-2.5-V-THR_1x03_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-3-2.5-V-THR, vertical (cable from top), 3 pins, pitch 2.5mm, size 8x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-3-2.5-V-THR vertical pitch 2.5mm size 8x5mm^2 drill 1.2mm pad 2mm
+0
+6
+3
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-3-HV-2.5-SMD_1x03-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 3 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778706/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+5
+4
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-4-2,5-V-SMD_1x04-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 4 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814728/pdf
+PhoenixContact PTSM0.5 4 2.5mm vertical SMD spring clamp terminal block connector 
+0
+6
+5
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-4-2.5-H-THR_1x04_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-4-2.5-H-THR, 4 pins, pitch 2.5mm, size 12.2x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-4-2.5-H-THR pitch 2.5mm size 12.2x10mm^2 drill 1.2mm pad 3mm
 0
 8
 4
-oddball
-Teensy_2.0
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-4-2.5-V-THR_1x04_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-4-2.5-V-THR, vertical (cable from top), 4 pins, pitch 2.5mm, size 10.5x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-4-2.5-V-THR vertical pitch 2.5mm size 10.5x5mm^2 drill 1.2mm pad 2mm
+0
+8
+4
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-4-HV-2.5-SMD_1x04-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 4 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778719/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+4
+3
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-5-2,5-V-SMD_1x05-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 5 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814731/pdf
+PhoenixContact PTSM0.5 5 2.5mm vertical SMD spring clamp terminal block connector 
+0
+7
+6
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-5-2.5-H-THR_1x05_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-5-2.5-H-THR, 5 pins, pitch 2.5mm, size 14.7x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-5-2.5-H-THR pitch 2.5mm size 14.7x10mm^2 drill 1.2mm pad 3mm
+0
+10
+5
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-5-2.5-V-THR_1x05_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-5-2.5-V-THR, vertical (cable from top), 5 pins, pitch 2.5mm, size 13x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-5-2.5-V-THR vertical pitch 2.5mm size 13x5mm^2 drill 1.2mm pad 2mm
+0
+10
+5
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-5-HV-2.5-SMD_1x05-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 5 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778722/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+7
+6
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-6-2,5-V-SMD_1x06-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 6 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814744/pdf
+PhoenixContact PTSM0.5 6 2.5mm vertical SMD spring clamp terminal block connector 
+0
+8
+7
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-6-2.5-H-THR_1x06_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-6-2.5-H-THR, 6 pins, pitch 2.5mm, size 17.2x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-6-2.5-H-THR pitch 2.5mm size 17.2x10mm^2 drill 1.2mm pad 3mm
+0
+12
+6
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-6-2.5-V-THR_1x06_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-6-2.5-V-THR, vertical (cable from top), 6 pins, pitch 2.5mm, size 15.5x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-6-2.5-V-THR vertical pitch 2.5mm size 15.5x5mm^2 drill 1.2mm pad 2mm
+0
+12
+6
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-6-HV-2.5-SMD_1x06-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 6 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778735/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+8
+7
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-7-2,5-V-SMD_1x07-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 7 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814757/pdf
+PhoenixContact PTSM0.5 7 2.5mm vertical SMD spring clamp terminal block connector 
+0
+9
+8
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-7-2.5-H-THR_1x07_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-7-2.5-H-THR, 7 pins, pitch 2.5mm, size 19.7x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-7-2.5-H-THR pitch 2.5mm size 19.7x10mm^2 drill 1.2mm pad 3mm
+0
+14
+7
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-7-2.5-V-THR_1x07_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-7-2.5-V-THR, vertical (cable from top), 7 pins, pitch 2.5mm, size 18x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-7-2.5-V-THR vertical pitch 2.5mm size 18x5mm^2 drill 1.2mm pad 2mm
+0
+14
+7
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-7-HV-2.5-SMD_1x07-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 7 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778748/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+9
+8
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-8-2,5-V-SMD_1x08-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 8 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814760/pdf
+PhoenixContact PTSM0.5 8 2.5mm vertical SMD spring clamp terminal block connector 
+0
+10
+9
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-8-2.5-H-THR_1x08_P2.50mm_Horizontal
+Terminal Block Phoenix PTSM-0,5-8-2.5-H-THR, 8 pins, pitch 2.5mm, size 22.2x10mm^2, drill diamater 1.2mm, pad diameter 3mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556441-da-01-de-LEITERPLATTENKL__PTSM_0_5__8_2_5_H_THR.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-8-2.5-H-THR pitch 2.5mm size 22.2x10mm^2 drill 1.2mm pad 3mm
+0
+16
+8
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-8-2.5-V-THR_1x08_P2.50mm_Vertical
+Terminal Block Phoenix PTSM-0,5-8-2.5-V-THR, vertical (cable from top), 8 pins, pitch 2.5mm, size 20.5x5mm^2, drill diamater 1.2mm, pad diameter 2mm, see http://www.produktinfo.conrad.com/datenblaetter/550000-574999/556444-da-01-de-LEITERPLATTENKL__PTSM_0_5__4_2_5_V_THR.pdf, script-generated with , script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix PTSM-0,5-8-2.5-V-THR vertical pitch 2.5mm size 20.5x5mm^2 drill 1.2mm pad 2mm
+0
+16
+8
+phoenix
+TerminalBlock_Phoenix_PTSM-0,5-8-HV-2.5-SMD_1x08-1MP_P2.50mm_Vertical
+PhoenixContact PTSM0,5 8 HV 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1778751/pdf
+2.5mm vertical SMD spring clamp terminal block connector 
+0
+10
+9
+tiny2040
+tiny2040
 
 
 0
-31
-31
-oddball
-oddball_text
-
-
-0
-0
-0
-oddball
-oddballer
-
-
-0
-0
-0
+19
+19
