@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SparkFun-Boards")(type "Legacy")(uri "C:/Users/alexa/Repos/atulloh.oddball-pcb/symbols/SparkFun-KiCad-Libraries-master/SparkFun-Boards.lib")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "C:/Users/alexa/Repos/atulloh.oddball-pcb/symbols/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "mkl27z256vfm4")(type "Legacy")(uri "C:/Users/alexa/Repos/atulloh.oddball-pcb/symbols/kicad_lib_tmk-master/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name "custom")(type "Legacy")(uri "C:/Users/alexa/Repos/atulloh.oddball-pcb/symbols/custom.lib")(options "")(descr ""))
+  (lib (name "teensy")(type "Legacy")(uri "C:/Users/alexa/Repos/atulloh.oddball-pcb/lib/teensy/teensy.lib")(options "")(descr ""))
+  (lib (name "oddball-rescue")(type "KiCad")(uri "${KIPRJMOD}/oddball-rescue.kicad_sym")(options "")(descr ""))
+)
